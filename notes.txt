@@ -1,2 +1,10 @@
-ele. system
+ele. system (Database name = (ele_man))
 +form
+
+voter -> (id , address,age , vote , gender)
+user -> (name , pass , id , email)
+
+reports :
+address
+age
+gender
